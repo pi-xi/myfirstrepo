@@ -38,3 +38,6 @@ this is some text from the master branch
 2. testtext for the Branch 1
 
 all git marks removed
+
+
+This is the Final Text!
