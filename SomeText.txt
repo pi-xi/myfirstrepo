@@ -32,4 +32,9 @@ test from the website
 some more text from the desktop
 
 
+
 this is some text from the master branch
+
+2. testtext for the Branch 1
+
+all git marks removed
