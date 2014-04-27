@@ -6,7 +6,7 @@ Of visionary seas! No, never more
 Shall airy voices cheat me to the shore
 Of tangled wonder, breathless and aghast.
 Here will I kneel, for thou redeemed hast
-My life from too thin breathing: gone and past
+My life from too thin breathing: gone andaGaAG past
 Are cloudy phantasms. Caverns lone, farewel!
 And air of visions, and the monstrous swell
 Of visionary seas! No, never more
@@ -31,6 +31,17 @@ test from the website
 
 some more text from the desktop
 
+
+
+this is some text from the master branch
+
 2. testtext for the Branch 1
 
+
 This is the chnages from branch-1
+
+all git marks removed
+
+
+This is the Final Text!
+
